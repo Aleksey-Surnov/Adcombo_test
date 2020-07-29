@@ -3,7 +3,7 @@ Task solution for the company Adcombo.
 You can see the task and the code of solution in the file buddypairs.py
 
 ## Start program
-install the interpreter python3.8
+install the interpreter python 3.8
 For program start type `python3.8 buddypairs.py`
 
 ### Example of use №1
@@ -27,7 +27,7 @@ result`[62744, 75495]`
 
 result`Nothing`
 
-##Support
+###Support
 
 Python 3.8 and higher.
 
