@@ -14,9 +14,9 @@ For program start type `python3.8 buddypairs.py`
 result `[48, 75]`
 
 ### Example of use №2
-`please input a number for start and press button "Enter": 57345`
+`please input a number for start and press button "Enter": 58032`
 
-`please input a number for limit and press button "Enter": 90061`
+`please input a number for limit and press button "Enter": 90321`
 
 result`[62744, 75495]`
 
