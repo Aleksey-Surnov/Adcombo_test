@@ -1,9 +1,11 @@
 # Adcombo_test
 Task solution for the company Adcombo.
+
 You can see the task and the code of solution in the file buddypairs.py
 
 ## Start program
 install the interpreter python 3.8
+
 For program start type `python3.8 buddypairs.py`
 
 ### Example of use №1
